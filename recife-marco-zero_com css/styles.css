@@ -1,0 +1,103 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(223, 236, 240);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(164, 198, 209);
+    padding: 0 10%;
+    align-items: center;
+    
+}
+
+header span {
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+}
+
+nav a {
+    color: black;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+nav li {
+    list-style: none;
+}
+
+main {
+    padding: 0 10%;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    text-align: justify;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+article h3 {
+    margin-top: 0;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+figure {
+    padding: 0;
+    margin: 0;
+}
+
+article img {
+    border-radius: 15px;
+}
+
+figure iframe {
+    border-radius: 15px;  
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+footer div {
+    text-align: center;
+}
+
+.copy {
+    font-weight: bold;
+}
+
+footer p {
+    margin: 7px 0;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+footer li {
+    list-style: none;
+
+}
