@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "geladeira",
+        "marca": "eletrolux",
+        "preco": 14000.4,
+        "quantidade em estoque": 2,
+        "pronta entrega disponivel": true
+    },
+    {
+        "id": 2,
+        "nome": "microondas",
+        "marca": "eletrolux",
+        "preco": 700.4,
+        "quantidade em estoque": 3,
+        "pronta entrega disponivel": true
+    },
+    {
+        "id": 3,
+        "nome": "liquidificador",
+        "marca": "eletrolux",
+        "preco": 150,
+        "quantidade em estoque": 0,
+        "pronta entrega disponivel": false
+    }
+]
